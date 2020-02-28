@@ -8,4 +8,5 @@
 ![image](https://github.com/SilentUniverse/Qt_OpenCV_Weld_Tracking/blob/master/image/1.png)
 ![image](https://github.com/SilentUniverse/Qt_OpenCV_Weld_Tracking/blob/master/image/2.png)
 ![image](https://github.com/SilentUniverse/Qt_OpenCV_Weld_Tracking/blob/master/image/3.png)
+![image](https://github.com/SilentUniverse/Qt_OpenCV_Weld_Tracking/blob/master/image/picture/4.png)
 
