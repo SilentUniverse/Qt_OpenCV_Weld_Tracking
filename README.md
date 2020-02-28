@@ -5,3 +5,7 @@
 
 2.实现了Qt和OpenCV库的联合使用，编写GUI界面完成焊缝跟踪界面。
 
+![image](https://github.com/SilentUniverse/Qt_OpenCV_Weld_Tracking/blob/master/image/1.png)
+![image](https://github.com/SilentUniverse/Qt_OpenCV_Weld_Tracking/blob/master/image/2.png)
+![image](https://github.com/SilentUniverse/Qt_OpenCV_Weld_Tracking/blob/master/image/3.png)
+
